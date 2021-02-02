@@ -16,3 +16,4 @@ sidebar_label: Audiobooks
 - [P2PEiite](http://p2pelite.com) - Yet another oldschool eBook website.
 - [ThePirateBay](https://www.thepiratebay.org/browse/102) - Collection of audiobooks on ThePirateBay.
 - [Tokybook](https://tokybook.com/) - Yet another free audiobook streaming site.
+- [AudiBoi](https://audiboi.com/home/) - Free audiobook streaming site and open directory.
